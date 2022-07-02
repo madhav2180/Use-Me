@@ -3,7 +3,7 @@ A cleaner and smarter waste management system using IoT sensors using AI &amp; M
 
 
 
-## How to configure
+## How to configure web app
 **1.** Clone git repo
 
 ```shell
@@ -46,3 +46,12 @@ $ python ./main.py
 ```shell
 $ streamlit run .\imgpredict.py    
 ```
+## How to configure mobile app
+**1.** Before running your project,make sure to run the following commands:
+
+
+1.flutter pub get
+2.flutter packages pub run build_runner build --delete-conflicting-outputs
+
+This creates the generated code necessary for the project to run.
+
