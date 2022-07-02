@@ -3,7 +3,7 @@ A cleaner and smarter waste management system using IoT sensors using AI &amp; M
 
 
 
-## How to configure:
+## Clone git repo
 **1.** git clone "https://github.com/madhav2180/Use-Me.git"
 
 ```shell
