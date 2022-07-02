@@ -35,8 +35,13 @@ $ pip install numpy
 ```shell
 $ pip install tensorflow
 ```
-**4.** execute prediction model
+**4.** Execute prediction model
 ```
 ```shell
 $ python ./main.py      
+```
+**4.** Install opencv
+```
+```shell
+$ pip install opencv-python     
 ```
