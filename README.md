@@ -35,11 +35,10 @@ $ pip install numpy
 ```shell
 $ pip install tensorflow
 ```
+```shell
+$ pip install opencv-python     
+```
 **4.** Execute prediction model
 ```shell
 $ python ./main.py      
-```
-**5.** Install opencv
-```shell
-$ pip install opencv-python     
 ```
