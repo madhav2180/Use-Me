@@ -21,3 +21,22 @@ $  python -m venv env
 ```shell
 $  ./env/Scripts/activate
 ```
+**3.** Import Modules
+
+```shell
+$ pip install keras
+```
+```shell
+$ pip install pillow
+```
+```shell
+$ pip install numpy
+```
+```shell
+$ pip install tensorflow
+```
+**4.** execute prediction model
+```
+```shell
+$ python ./main.py      
+```
