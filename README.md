@@ -42,3 +42,7 @@ $ pip install opencv-python
 ```shell
 $ python ./main.py      
 ```
+**5.** Run stremlit app
+```shell
+$ streamlit run .\imgpredict.py    
+```
