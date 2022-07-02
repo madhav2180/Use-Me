@@ -51,6 +51,7 @@ $ streamlit run .\imgpredict.py
 
 
 1.flutter pub get
+
 2.flutter packages pub run build_runner build --delete-conflicting-outputs
 
 This creates the generated code necessary for the project to run.
