@@ -3,11 +3,11 @@ A cleaner and smarter waste management system using IoT sensors using AI &amp; M
 
 
 
-## Clone git repo
-**1.** git clone "https://github.com/madhav2180/Use-Me.git"
+## How to configure
+**1.** Clone git repo
 
 ```shell
-$ sudo apt-get install python3-pip
+$ git clone "https://github.com/madhav2180/Use-Me.git"
 ```
 
 **2.** Installing django
