@@ -16,8 +16,8 @@ $ git clone "https://github.com/madhav2180/Use-Me.git"
 $ pip install virtualenv
 ```
 ```shell
-$  python<version> -m venv <virtual-environment-name>
+$  python -m venv env
 ```
 ```shell
-$  ./venv/Scripts/activate
+$  ./env/Scripts/activate
 ```
