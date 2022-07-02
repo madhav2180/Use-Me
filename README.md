@@ -10,10 +10,14 @@ A cleaner and smarter waste management system using IoT sensors using AI &amp; M
 $ git clone "https://github.com/madhav2180/Use-Me.git"
 ```
 
-**2.** Installing django
+**2.** Create virtual env
 
 ```shell
-$ python -m pip install Django
+$ pip install virtualenv
 ```
-
-**3.** Clone this 
+```shell
+$  python<version> -m venv <virtual-environment-name>
+```
+```shell
+$  ./venv/Scripts/activate
+```
